@@ -19,7 +19,7 @@ export default function Cabecera({shoppingCart,total}) {
       </div>    
           <div className='imgContainer'>
           <img className='Segu' src={img1} alt="ProfilePicture" />
-          <p>Segu Del Litto</p>
+          <p><a href="https://www.instagram.com/segudellitto/">Segu Del Litto</a></p>
           </div>
     </header>
   )
