@@ -82,6 +82,7 @@ h3{
 .product button{
   padding: 5px;
   width: 90px;
+<<<<<<< HEAD
   background-color: #92754f;
   border-radius: 6px;
   color: white;
@@ -98,6 +99,8 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 button:disabled {
   opacity: 0.6;
   cursor: not-allowed;
+=======
+>>>>>>> 6c7738660c5c3832a43f45ee474afd749153e01d
 }
 
 .product img{
@@ -121,6 +124,7 @@ header .imgContainer p{
   width: 100px;
 }
 
+<<<<<<< HEAD
 header .imgContainer p a{
   text-decoration: none;
   color: white;
@@ -131,6 +135,8 @@ header .imgContainer p a:hover{
   color: #a8a3a3;
 }
 
+=======
+>>>>>>> 6c7738660c5c3832a43f45ee474afd749153e01d
 .imgContainer{
   display: flex;
   width: 100px;

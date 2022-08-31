@@ -19,7 +19,11 @@ const Item = ({name,image,description,price,stock,addShoppingCart,setTotal}) => 
   const [buttonDisabled, setButtonDisabled] = useState(false)
   const [buttonText,setButtonText] = useState("Buy")
   useEffect(()=>{
+<<<<<<< HEAD
     if(stockCounter === 0){
+=======
+    if(stockCounter ===0){
+>>>>>>> 6c7738660c5c3832a43f45ee474afd749153e01d
         setButtonDisabled(true)
         setButtonText("Out of stock")
         setStockCounter("0");
